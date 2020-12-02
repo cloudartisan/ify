@@ -1,0 +1,6 @@
+	this is an indented test
+	with nothing to align...
+
+	previous versions of alignify.py
+	would strip whitespace from the
+	beginning of the line... BAD!

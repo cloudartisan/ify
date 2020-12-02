@@ -1,0 +1,7 @@
+ALL = 'All'
+OF = 'of'
+THESE = 'these'
+SHOULD = 'should'
+BECOME = 'become'
+CONSTANT = 'constant'
+EXPRESSIONS = 'expressions'

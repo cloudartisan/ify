@@ -1,0 +1,19 @@
+UseCase.txt
+-----------
+WHAT, WHY
+
+The interfaces in UseCase.idl represent a first cut attempt to provide interfaces for
+the functionality described in the Market Information Requirements 0.7 document 
+for requirements
+"5.2  Code Lookup", "5.3 Research Security / Company" and 
+"5.4 User Researches An Overseas Share Market". 
+
+At the time of our contract's termination, we were in the process of defining interfaces
+for the functionality we would provide to other teams within the group.
+It was intended that we would
+discuss these interfaces with the team that would be using
+these interfaces and refine them over time.
+
+They've been reviewed by CommSecure, but the team that would be using
+these interfaces hasn't been consulted. The interfaces were still incomplete
+at the time of our termination.
